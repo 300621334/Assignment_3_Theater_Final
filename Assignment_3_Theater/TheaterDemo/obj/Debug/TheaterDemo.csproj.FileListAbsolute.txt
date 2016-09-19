@@ -1,0 +1,12 @@
+C:\Users\a\Desktop\Assignment_3_Theater\TheaterDemo\bin\Debug\TheaterDemo.exe.config
+C:\Users\a\Desktop\Assignment_3_Theater\TheaterDemo\obj\Debug\TheaterDemo.csprojResolveAssemblyReference.cache
+C:\Users\a\Desktop\Assignment_3_Theater\TheaterDemo\bin\Debug\TheaterDemo.exe
+C:\Users\a\Desktop\Assignment_3_Theater\TheaterDemo\bin\Debug\TheaterDemo.pdb
+C:\Users\a\Desktop\Assignment_3_Theater\TheaterDemo\obj\Debug\TheaterDemo.exe
+C:\Users\a\Desktop\Assignment_3_Theater\TheaterDemo\obj\Debug\TheaterDemo.pdb
+H:\Comp-123 - C#\Projects\Assignment_3_Theater\Assignment_3_Theater\TheaterDemo\bin\Debug\TheaterDemo.exe.config
+H:\Comp-123 - C#\Projects\Assignment_3_Theater\Assignment_3_Theater\TheaterDemo\obj\Debug\TheaterDemo.exe
+H:\Comp-123 - C#\Projects\Assignment_3_Theater\Assignment_3_Theater\TheaterDemo\obj\Debug\TheaterDemo.pdb
+H:\Comp-123 - C#\Projects\Assignment_3_Theater\Assignment_3_Theater\TheaterDemo\bin\Debug\TheaterDemo.exe
+H:\Comp-123 - C#\Projects\Assignment_3_Theater\Assignment_3_Theater\TheaterDemo\bin\Debug\TheaterDemo.pdb
+H:\Comp-123 - C#\Projects\Assignment_3_Theater\Assignment_3_Theater\TheaterDemo\obj\Debug\TheaterDemo.csprojResolveAssemblyReference.cache
